@@ -1,0 +1,8 @@
+.env
+.venv
+__pycache__
+
+/info
+
+movies_metadata.csv
+movies.ipynb
